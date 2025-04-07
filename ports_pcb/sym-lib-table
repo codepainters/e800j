@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ports_pcb")(type "KiCad")(uri "${KIPRJMOD}/ports_pcb.kicad_sym")(options "")(descr ""))
+)
