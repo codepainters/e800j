@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "ports_pcb")(type "KiCad")(uri "${KIPRJMOD}/ports_pcb.pretty")(options "")(descr ""))
-  (lib (name "e800j_custom")(type "KiCad")(uri "${KIPRJMOD}/../pcb_rev_c/e800j_custom.pretty")(options "")(descr ""))
+  (lib (name "e800j_custom")(type "KiCad")(uri "${KIPRJMOD}/../e800j_rev_c/e800j_custom.pretty")(options "")(descr ""))
 )
