@@ -5,7 +5,7 @@
 	(uuid "7dc9b957-6c8d-462f-a6de-ec4bb6f6b8f0")
 	(paper "A4")
 	(title_block
-		(title "Elwro 800 Junio ports breakout board")
+		(title "Elwro 800 Junior ports breakout board")
 		(rev "1.1")
 		(company "Przemysław Węgrzyn <pwegrzyn@codepainters.com>")
 	)
