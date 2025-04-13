@@ -13368,7 +13368,7 @@
 			(uuid "939e4ef0-fbe0-4322-a492-d403e2e2683b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/3d/PinHeader_1x10_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21035,7 +21035,7 @@
 			(uuid "c3d34c3d-4d29-45c9-8dd3-af38a0b75054")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl"
+		(model "${KIPRJMOD}/3d/LED_D5.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21692,7 +21692,7 @@
 			(uuid "3e481455-ed85-4e70-8ee9-924dc62b6d77")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/3d/PinHeader_1x10_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
