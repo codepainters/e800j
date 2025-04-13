@@ -258,7 +258,7 @@
 		(path "/7d565dd1-68a8-4ecb-be30-eac27d404707")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -506,7 +506,7 @@
 		(path "/55f38cfc-1194-41f4-91e8-1a2400e6e845")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -832,7 +832,7 @@
 		(path "/0c73d67d-6b6f-4f97-a792-2e4995ad9339")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -1078,7 +1078,7 @@
 		(path "/7aec77d7-18dd-4e7e-90f1-f6384fe99494")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.367832 0)
@@ -1890,7 +1890,7 @@
 		(path "/bdb2fedf-1bc9-495d-9d02-df2a4a3ed493")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.91581 0)
@@ -1988,7 +1988,7 @@
 		(path "/7ded8c45-8bf3-4028-bf29-dd7fe8a51905")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -2500,7 +2500,7 @@
 		(path "/800446d5-ed86-4839-b84f-189fde730df0")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -3012,7 +3012,7 @@
 		(path "/60103c52-551c-4129-8a3c-a5b7947ed614")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -3260,7 +3260,7 @@
 		(path "/7273fe11-59ad-4bbf-be0a-071484b82964")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -3508,7 +3508,7 @@
 		(path "/c9757448-da72-4c18-8ea8-6b41ff1b64be")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -5904,7 +5904,7 @@
 		(path "/208bbbf6-4034-477c-a7da-5b685f375998")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -6716,7 +6716,7 @@
 		(path "/8b4afe89-0d72-43e6-b9f3-570572337eff")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -7227,7 +7227,7 @@
 		(path "/455167b7-cb4c-4c1e-b15a-1973793be2e1")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -8288,7 +8288,7 @@
 		(layer "F.Cu")
 		(uuid "59c127f7-6050-47db-8e87-94058a59a28d")
 		(at 266.065 73.66)
-		(property "Reference" "REF**"
+		(property "Reference" "IMG1"
 			(at 1.508317 0.53122 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -8338,7 +8338,7 @@
 				)
 			)
 		)
-		(attr smd board_only)
+		(attr smd board_only exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -3.217333 3.354917) (xy -3.227916 3.3655) (xy -3.2385 3.354917) (xy -3.227916 3.344334) (xy -3.217333 3.354917)
@@ -9862,7 +9862,7 @@
 		(path "/d65adf10-d130-4609-8319-19ca71c5d1bd")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -10457,7 +10457,7 @@
 		(path "/45d7b724-ab61-4a8b-8969-eb2aa280f2fc")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -10702,7 +10702,7 @@
 		(path "/6b58b07b-2d7a-4b4e-8de7-3715f4ce8b3b")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.367832 0)
@@ -10928,7 +10928,7 @@
 		(path "/3f38674e-8f52-4f9b-8a9c-df2fa279dd2a")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -11394,7 +11394,7 @@
 		(path "/788a008c-80d8-46e0-9cd8-d2b399e04b35")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.91581 0)
@@ -11492,7 +11492,7 @@
 		(path "/6f5565db-22ca-4b91-80c3-8f790e4e64b2")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -11740,7 +11740,7 @@
 		(path "/b695ddfc-f93d-42bc-9b73-86934dfdd5f2")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -12208,7 +12208,7 @@
 		(path "/8176cce9-5e2f-495f-b2a6-07431917560f")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -12456,7 +12456,7 @@
 		(path "/807ebedc-2087-4a35-99bc-e63864ad297d")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -13177,7 +13177,7 @@
 		(path "/d1ea3f11-3602-47f6-98af-3de5e9999e30")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -13558,7 +13558,7 @@
 		(path "/8a1a1079-c22a-4c2b-8b88-1c4d9e58531e")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -13806,7 +13806,7 @@
 		(path "/e6ef3c5c-0fb2-494a-b17c-f5b3bac29df3")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -14054,7 +14054,7 @@
 		(path "/33c403cb-ed1e-4bff-a7aa-125425fe6a49")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -14302,7 +14302,7 @@
 		(path "/ff2ecac3-bdb4-45e9-9c60-d723468a6187")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -14704,7 +14704,7 @@
 		(path "/f7f76e4c-e017-4f3d-ad1b-0f31fb980382")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -14952,7 +14952,7 @@
 		(path "/f021044b-99d9-4935-a36c-a717c94fe9ea")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -15200,7 +15200,7 @@
 		(path "/a57897dc-82e6-483b-a175-4883905867e4")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -15815,7 +15815,7 @@
 		(path "/2c84ac14-cd64-404b-88b4-2c58644790a4")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -16372,7 +16372,7 @@
 		(path "/7dfb623e-16f3-4d6c-8f71-7a938aaf9c38")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -16620,7 +16620,7 @@
 		(path "/6135f588-a854-4d20-87b5-97d3c569010f")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -17608,7 +17608,7 @@
 		(path "/ec993c58-32e0-4e19-9e7a-be97cc964a4e")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -17856,7 +17856,7 @@
 		(path "/8d8316ed-ee6a-4370-9107-560faa4e2beb")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -18538,7 +18538,7 @@
 		(path "/6ed49d7e-c15e-445b-a796-5291a9c6659a")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -18950,7 +18950,7 @@
 		(path "/d0e58929-46f6-486e-90dd-654e0e4e858a")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -19198,7 +19198,7 @@
 		(path "/046353b2-bd8b-47e2-a338-e5370ea9c82a")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -19506,7 +19506,7 @@
 		(path "/e72ffe48-469c-49bd-86a0-5d953e956ab9")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -19754,7 +19754,7 @@
 		(path "/9d261220-b51c-4e4d-b17a-e117339096f2")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -20606,7 +20606,7 @@
 		(path "/c303588f-cf03-4ca1-9f74-1d609f4af1ae")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -20854,7 +20854,7 @@
 		(path "/434f87f0-5ddf-4a24-8970-169679012f1e")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -21365,7 +21365,7 @@
 		(path "/a6f9dd61-6869-41c6-bb40-6c22228abe9a")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -21862,7 +21862,7 @@
 		(path "/c9e6ec80-e999-4779-b96d-4df9ef201370")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -22515,7 +22515,7 @@
 		(path "/40584898-75dc-4cd4-bcbf-026d80f98f75")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -22761,7 +22761,7 @@
 		(path "/dc59b05e-150b-4c51-a72c-b69623de8b91")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.367832 0)
@@ -22859,7 +22859,7 @@
 		(path "/7af700ea-1460-4c2b-bc10-4dd6ebf299d0")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -23107,7 +23107,7 @@
 		(path "/567b6c75-2aeb-4690-8b19-b2346106b736")
 		(sheetname "/")
 		(sheetfile "ports_pcb.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
