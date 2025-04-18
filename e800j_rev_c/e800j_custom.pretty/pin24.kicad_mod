@@ -1,7 +1,7 @@
 (footprint "pin24"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0.254 -2.032 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "e80e7d45-c458-403b-8c4b-50594861ce70")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "Pin24"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "989f1b8e-5207-4cfb-b87a-5428f8a6a423")
 		(effects
 			(font
 				(size 1 1)
@@ -69,12 +56,12 @@
 	(attr through_hole)
 	(fp_circle
 		(center 0 0)
-		(end 1.367832 0)
+		(end 1.4 0)
 		(stroke
-			(width 0.12)
-			(type default)
+			(width 0.2)
+			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "3369fb1f-69fb-4a9a-9c3b-d24bf773fd3d")
 	)
@@ -98,4 +85,5 @@
 		(remove_unused_layers no)
 		(uuid "87619e4d-ac1a-4b5b-89b5-6312518a460b")
 	)
+	(embedded_fonts no)
 )

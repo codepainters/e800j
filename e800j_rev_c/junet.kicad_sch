@@ -8836,7 +8836,7 @@
 		(at 111.76 160.02 270)
 		(mirror x)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8859,7 +8859,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "e800j_custom:jmp_100"
+		(property "Footprint" "e800j_custom:jmp_100_idc"
 			(at 111.76 160.02 0)
 			(effects
 				(font

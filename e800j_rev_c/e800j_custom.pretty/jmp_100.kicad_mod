@@ -1,7 +1,7 @@
 (footprint "jmp_100"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -0.5 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "cc70462d-6010-4958-94e3-541c6c500de7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "jmp_400"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "cac897ae-7954-4e10-880d-63a14d22dea3")
 		(effects
 			(font
 				(size 1 1)
@@ -105,4 +92,5 @@
 		(remove_unused_layers no)
 		(uuid "26055b8c-6f84-49d4-9fb6-4c0758b3da03")
 	)
+	(embedded_fonts no)
 )
