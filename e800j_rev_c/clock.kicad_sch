@@ -4304,7 +4304,7 @@
 		(lib_id "Jumper:Jumper_2_Small_Bridged")
 		(at 113.03 34.29 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
