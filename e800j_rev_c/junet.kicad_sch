@@ -8877,7 +8877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+		(property "Description" ""
 			(at 111.76 160.02 0)
 			(effects
 				(font
