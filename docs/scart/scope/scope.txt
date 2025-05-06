@@ -1,0 +1,5 @@
+- pin 16 - border 7
+- pin 16 - border 0
+- SCR27 - SYNC z obciążeniem
+- SCR28 - SYNC luzem
+- SCR29 - SYNC z obciążeniem i śmietnikiem
