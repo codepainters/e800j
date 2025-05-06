@@ -18,7 +18,7 @@ All boards were designed in KiCad 9. In addition to the KiCad project files, eac
 
 ### Additional documentation
 
-* [docs/pinouts/](docs/pinouts) - pin-outs of the connectors
+* [docs/pinouts.md](docs/pinouts.md) - pin-outs of the connectors
 * [docs/scans/](docs/scans/) - scans of the original schematics and DTR (*dokumentacja techniczno-ruchowa* - Polish for *technical reference manual*)
 * [docs/scart.md](docs/scart.md) - SCART cable schematics / discussion
 
