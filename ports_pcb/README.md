@@ -51,7 +51,7 @@ There are some choices to be made:
 
   I decided to make pin 8 of the RGB connector configurable between `SYN_H` and `+5V`, as the `SYN_H` signal is not necessary
   for SCART operation. Similarly, `SYN_V` is not really needed, so I've added `JP3` jumper allowing for disconnecting
-  pin 6 and using it for other purposes (there's a plan to use it for a second audio channel).
+  pin 6 and using it for other purposes. Also, `JP4` jumper allows for disconnecting `FON` signal from pin 7 (there's a plan to use pins 6 and 7 for stereo audio from AY-3-8910/12 card).
 
   So, if you want to use a SCART cable, you most likely want to:
 
