@@ -6228,6 +6228,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 123.19) (xy 237.49 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fe66682-da4c-4379-82b9-88607c6d6fd0")
+	)
+	(wire
+		(pts
 			(xy 149.86 156.21) (xy 149.86 144.78)
 		)
 		(stroke
@@ -6548,7 +6558,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 91.44) (xy 237.49 129.54)
+			(xy 237.49 91.44) (xy 237.49 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8023,7 +8033,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "0R*"
 			(at 246.126 61.214 90)
 			(effects
 				(font
@@ -11867,6 +11877,74 @@
 			(project "ports_pcb"
 				(path "/7dc9b957-6c8d-462f-a6de-ec4bb6f6b8f0"
 					(reference "J100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Open")
+		(at 237.49 120.65 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a152f33b-0184-473d-8545-f59896ebf7cc")
+		(property "Reference" "JP4"
+			(at 241.554 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FON"
+			(at 241.808 121.412 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 237.49 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, small symbol, open"
+			(at 237.49 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "04e37878-fb8c-4e15-9bd3-3208a4407ff3")
+		)
+		(pin "1"
+			(uuid "987d16d0-58bb-425e-9916-5ea484d4dd8b")
+		)
+		(instances
+			(project "ports_pcb"
+				(path "/7dc9b957-6c8d-462f-a6de-ec4bb6f6b8f0"
+					(reference "JP4")
 					(unit 1)
 				)
 			)
