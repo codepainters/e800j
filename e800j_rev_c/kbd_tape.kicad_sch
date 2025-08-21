@@ -12984,9 +12984,9 @@
 		(at 101.6 172.72 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "513401bb-79a6-4bf6-b39a-5a15b603c130")
 		(property "Reference" "R77"
 			(at 100.584 170.434 90)
@@ -16679,7 +16679,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d3108bc2-e52c-44fd-824f-382d3c68505d")
 		(property "Reference" "C9"
 			(at 111.252 174.244 90)
