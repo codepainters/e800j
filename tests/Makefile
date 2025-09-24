@@ -1,4 +1,4 @@
-OBJS=01_color_bars.rom
+OBJS=01_color_bars.rom 02_color_bars2.rom
 
 %.rom : %.asm
 	zasm -wu $<
